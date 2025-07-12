@@ -43,12 +43,16 @@ Also, I am working as a part-timer at [The National Institute of Advanced Indust
 
 
 ### Academic History
-- 2019/04 – 2023/03:  [Bachelor of Information Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
-- 2023/04 – Present:  [Master of Computer Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
+- Apr. 2019 – Mar. 2023:  [Bachelor of Information Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
+- Apr. 2023 – Present:  [Master of Computer Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
+
+
+## Award
+- Mar. 2025: Student Encouragement Award from Information Processing Society of Japan (IPSJ)
 
 
 ### Fund
-- 2023/12 - 2024/07:  野﨑雄斗, 大嶽匡俊, 加藤大地, 廣岡聖司, “日本語版の世界観を崩さないアニメの自動吹き替え,” 産業技術総合研究所, [2023 年度ディープテック人材育成事業「覚醒」](https://kakusei.aist.go.jp/r5/), 300 万円
+- Dec. 2023 - Jul. 2024:  野﨑雄斗, 大嶽匡俊, 加藤大地, 廣岡聖司, “日本語版の世界観を崩さないアニメの自動吹き替え,” 産業技術総合研究所, [2023 年度ディープテック人材育成事業「覚醒」](https://kakusei.aist.go.jp/r5/), 300 万円
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
