@@ -47,7 +47,7 @@ Also, I am working as a part-timer at [The National Institute of Advanced Indust
 - Apr. 2023 – Present:  [Master of Computer Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
 
 
-## Award
+### Award
 - Mar. 2025: Student Encouragement Award from Information Processing Society of Japan (IPSJ)
 
 
