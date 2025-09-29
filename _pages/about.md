@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### Biography
-I am Yuto Nozaki, a second-year master’s student at [Sugiyama-Yokoya-Ishida lab](https://www.ms.k.u-tokyo.ac.jp/) supervised by [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html).
+I am Yuto Nozaki, a second-year master’s student at [Sugiyama-Yokoya-Ishida lab](https://www.ms.k.u-tokyo.ac.jp/) supervised by [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html) adn [Assoc. Prof. Ishida](https://takashiishida.github.io/). 
 Also, I am working as a part-timer at [The National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html).
 
 
