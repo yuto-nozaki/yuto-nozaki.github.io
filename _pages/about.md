@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 ### Biography
-I am Yuto Nozaki, a second-year master’s student at [Sugiyama-Yokoya-Ishida lab](https://www.ms.k.u-tokyo.ac.jp/) supervised by [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html) and [Assoc. Prof. Ishida](https://takashiishida.github.io/). 
+I am Yuto Nozaki, a first-year PhD student at [Takamichi Lab](https://takamichi-lab.github.io/), supervised by [Assoc. Prof. Shinnosuke Takamichi](https://sites.google.com/site/shinnosuketakamichi/home).
 Also, I am working as a part-timer at [The National Institute of Advanced Industrial Science and Technology (AIST)](https://www.aist.go.jp/index_en.html).
 
 
@@ -43,8 +43,12 @@ Also, I am working as a part-timer at [The National Institute of Advanced Indust
 
 
 ### Academic History
+- Apr. 2026 – Present:  [Ph.D.in Informatics, Management, and Human Science, Keio University](https://www.st.keio.ac.jp/en/)
+  - Advisor: [Assoc. Prof. Takamichi](https://sites.google.com/site/shinnosuketakamichi/home)
+- Apr. 2023 – Mar. 2026:  [Master of Computer Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
+  - Advisors: [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html) and [Assoc. Prof. Ishida](https://takashiishida.github.io/)
 - Apr. 2019 – Mar. 2023:  [Bachelor of Information Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
-- Apr. 2023 – Present:  [Master of Computer Science, The University of Tokyo](https://www.is.s.u-tokyo.ac.jp/en/)
+  - Advisors: [Prof. Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/index.html) and [Assoc. Prof. Ishida](https://takashiishida.github.io/)
 
 
 ### Award
