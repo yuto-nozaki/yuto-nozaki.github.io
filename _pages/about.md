@@ -52,10 +52,12 @@ Also, I am working as a part-timer at [The National Institute of Advanced Indust
 
 
 ### Award
+- Mar. 2026: Best Student Presentation Award from the Acoustical Society of Japan (ASJ)
 - Mar. 2025: Student Encouragement Award from Information Processing Society of Japan (IPSJ)
 
 
 ### Fund
+- Apr. 2026 - Present: Support for Pioneering Research Initiated by the Next Generation (SPRING) from Japan Science and Technology Agency (JST)
 - Dec. 2023 - Jul. 2024:  野﨑雄斗, 大嶽匡俊, 加藤大地, 廣岡聖司, “日本語版の世界観を崩さないアニメの自動吹き替え,” 産業技術総合研究所, [2023 年度ディープテック人材育成事業「覚醒」](https://kakusei.aist.go.jp/r5/), 300 万円
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
